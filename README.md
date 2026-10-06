@@ -8,7 +8,7 @@
 
 ### 🧪 Tecnologias e Ferramentas
 
-- **Linguagens & Scripts:** Python (Pandas, NumPy), Google Apps Script, SQL, HTML/CSS/JavaScript
+- **Linguagens & Scripts:** Python (Pandas, NumPy), SQL, HTML/CSS/JavaScript
 - **Dados & BI:** Power BI, Tableau, Tratamento e Manipulação de Dados
 - **Ferramentas:** Git, GitHub, VS Code, Google Workspace APIs
 
